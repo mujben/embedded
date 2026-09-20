@@ -10,3 +10,5 @@ sdkconfig.old
 
 !sdkconfig.defaults
 !sdkconfig.defaults.*
+
+managed_components/
